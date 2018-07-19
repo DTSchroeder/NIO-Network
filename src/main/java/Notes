@@ -1,0 +1,12 @@
+-------- Doug Lee Slides ++ Scalable IO in Java ++
+-- SLIDES: http://gee.cs.oswego.edu/dl/cpjslides/nio.pdf
+--
+
+
+-------- Ron Hitchens ++ How to Build a Scalable Multiplexed Server With NIO ++
+-- http://www.javanio.info/filearea/nioserver/NIOServerMark2.pdf
+
+
+-------- Douglas Schmidt ++ Pattern-Oriented Software Architecture, Patterns for Concurrent ..., Volume 2 ++
+-- Reactor!!!
+-- https://goo.gl/d8uNsF
